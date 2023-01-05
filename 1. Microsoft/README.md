@@ -13,3 +13,6 @@ Day 1 -
 10. <a href="https://leetcode.com/problems/shortest-unsorted-continuous-subarray/">Shortest Unsorted continuous Subarray</a>
 11. <a href="https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/">Number of ways to arrive at a Destination.</a>
 12. <a href="https://leetcode.com/problems/longest-happy-prefix/">Longest Happy Prefix</a>
+13. <a href="https://leetcode.com/problems/airplane-seat-assignment-probability/">Seat Arrangement in a SpiceJet Problem - Online OA February ‘22</a>
+14. <a href="https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/">Deletions to make an array divisible.</a>
+15. <a href="https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/">Substrings containing all three Characters</a>
